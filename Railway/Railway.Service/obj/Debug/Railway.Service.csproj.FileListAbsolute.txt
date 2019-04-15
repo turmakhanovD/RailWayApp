@@ -1,0 +1,6 @@
+C:\Users\ТурмаханД\source\repos\RailwayApp\Railway.Service\bin\Debug\Railway.Service.dll
+C:\Users\ТурмаханД\source\repos\RailwayApp\Railway.Service\bin\Debug\Railway.Service.pdb
+C:\Users\ТурмаханД\source\repos\RailwayApp\Railway.Service\obj\Debug\Railway.Service.csprojAssemblyReference.cache
+C:\Users\ТурмаханД\source\repos\RailwayApp\Railway.Service\obj\Debug\Railway.Service.csproj.CoreCompileInputs.cache
+C:\Users\ТурмаханД\source\repos\RailwayApp\Railway.Service\obj\Debug\Railway.Service.dll
+C:\Users\ТурмаханД\source\repos\RailwayApp\Railway.Service\obj\Debug\Railway.Service.pdb

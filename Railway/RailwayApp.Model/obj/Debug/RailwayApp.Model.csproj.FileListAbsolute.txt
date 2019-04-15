@@ -1,0 +1,14 @@
+C:\Users\ТурмаханД\source\repos\RailwayApp\RailwayApp.Model\bin\Debug\RailwayApp.Model.dll
+C:\Users\ТурмаханД\source\repos\RailwayApp\RailwayApp.Model\bin\Debug\RailwayApp.Model.pdb
+C:\Users\ТурмаханД\source\repos\RailwayApp\RailwayApp.Model\bin\Debug\EntityFramework.dll
+C:\Users\ТурмаханД\source\repos\RailwayApp\RailwayApp.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ТурмаханД\source\repos\RailwayApp\RailwayApp.Model\bin\Debug\RailwayApp.Model.Abstract.dll
+C:\Users\ТурмаханД\source\repos\RailwayApp\RailwayApp.Model\bin\Debug\RailwayApp.Model.Abstract.pdb
+C:\Users\ТурмаханД\source\repos\RailwayApp\RailwayApp.Model\bin\Debug\EntityFramework.xml
+C:\Users\ТурмаханД\source\repos\RailwayApp\RailwayApp.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ТурмаханД\source\repos\RailwayApp\RailwayApp.Model\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\ТурмаханД\source\repos\RailwayApp\RailwayApp.Model\obj\Debug\RailwayApp.Model.csprojAssemblyReference.cache
+C:\Users\ТурмаханД\source\repos\RailwayApp\RailwayApp.Model\obj\Debug\RailwayApp.Model.csproj.CoreCompileInputs.cache
+C:\Users\ТурмаханД\source\repos\RailwayApp\RailwayApp.Model\obj\Debug\RailwayApp.Model.csproj.CopyComplete
+C:\Users\ТурмаханД\source\repos\RailwayApp\RailwayApp.Model\obj\Debug\RailwayApp.Model.dll
+C:\Users\ТурмаханД\source\repos\RailwayApp\RailwayApp.Model\obj\Debug\RailwayApp.Model.pdb

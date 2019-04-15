@@ -1,0 +1,5 @@
+C:\Users\ТурмаханД\source\repos\RailwayApp\RailwayApp.Model.Abstract\bin\Debug\RailwayApp.Model.Abstract.dll
+C:\Users\ТурмаханД\source\repos\RailwayApp\RailwayApp.Model.Abstract\bin\Debug\RailwayApp.Model.Abstract.pdb
+C:\Users\ТурмаханД\source\repos\RailwayApp\RailwayApp.Model.Abstract\obj\Debug\RailwayApp.Model.Abstract.csproj.CoreCompileInputs.cache
+C:\Users\ТурмаханД\source\repos\RailwayApp\RailwayApp.Model.Abstract\obj\Debug\RailwayApp.Model.Abstract.dll
+C:\Users\ТурмаханД\source\repos\RailwayApp\RailwayApp.Model.Abstract\obj\Debug\RailwayApp.Model.Abstract.pdb
